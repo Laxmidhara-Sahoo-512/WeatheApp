@@ -1,0 +1,40 @@
+.weatherappbox{margin: auto;margin-top: 100px;
+    
+    width: 350px;
+    background-image:linear-gradient(135deg,#00feba,#5b548a);
+    padding-top: 10px;padding-bottom: 10px;border-radius: 10px;
+    margin-bottom: 50px;text-align: center;
+}
+.navbar{
+    width: 80%;height: 40px;margin: auto;
+    display: flex;justify-content: space-around;align-items: center;
+    margin-bottom: 30px;
+     
+}
+.inputbox{
+    width: 80%;background-color: white;
+    height: 30px;line-height: 30px;text-align: center;
+    border-radius: 20px;
+}
+.searchbar{
+    width: 30px;height: 30px;background-color: white;
+    line-height: 30px;text-align: center;border-radius: 50%;
+}
+.imagebox{
+    width: 30%;height: 30%;margin: auto;
+}
+#information{
+    width: 85%;height: 50px;margin: auto;
+    display: flex;justify-content: space-between;align-items: center;
+    margin-top: 20px;
+}
+.left,.right{
+    width: 150px;height: 40px;display: flex;justify-content:center;
+}
+.logo{
+    width: 50px;height: 50px;text-align: center;line-height: 50px;
+    
+}
+.contentbox{
+    height: 50px;width: fit-content;color: white;
+}
